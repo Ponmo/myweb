@@ -13,6 +13,10 @@ img {
   width: 30%;
 }
 
-table {
-  border-weight: 2px;
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
 }
