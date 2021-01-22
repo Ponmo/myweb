@@ -9,6 +9,7 @@ body {
 p   {
     background-color: yellow;
 }
-img {
-  width: 40%;
+img.resize {
+  max-width: 100%;
+  height: auto;
 }
