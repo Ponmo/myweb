@@ -21,3 +21,7 @@ p   {
 a:hover, a:active {
   background-color: red;
 }
+
+img {
+  width: 40%;
+}
