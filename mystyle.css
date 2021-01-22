@@ -12,3 +12,7 @@ p   {
 img {
   width: 30%;
 }
+
+table {
+  border-weight: 2px;
+}
