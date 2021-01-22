@@ -9,6 +9,7 @@ body {
 
 img {
   width: 30%;
+  border-radius: 20px;
 }
 
 table, th, td {
