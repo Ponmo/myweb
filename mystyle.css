@@ -11,7 +11,7 @@ img {
   border-radius: 20px;
   border: 1px solid #ddd;
 }
-div.subtitle {
+.subtitle {
   text-align: left;
   background-color: white;
   padding: 8px;
