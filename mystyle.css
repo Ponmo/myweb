@@ -14,7 +14,8 @@ img {
 .subtitle {
   text-align: left;
   background-color: white;
-  padding: 8px;
+  padding: 0px;
+  max-width: 30%;
 }
 table, th, td {
   border: 1px solid black;
