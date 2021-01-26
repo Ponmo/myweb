@@ -14,6 +14,12 @@ img {
   border-radius: 20px;
   border: 2px solid white;
 }
+.container {
+   padding: 10px 20px;
+   text-align: center;
+   background-color: white;
+   max-width 33%;
+}
 .subtitle {
   text-align: left;
   background-color: white;
