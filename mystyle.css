@@ -10,7 +10,7 @@ body {
    display: inline-block;
 }
 img {
-  width: 29%;
+  width: 32%;
   border-radius: 20px;
   border: 2px solid white;
 }
@@ -18,7 +18,7 @@ img {
    padding: 10px 20px;
    text-align: center;
    background-color: white;
-   max-width 33%;
+   max-width 32%;
 }
 .subtitle {
   text-align: left;
