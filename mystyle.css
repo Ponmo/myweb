@@ -10,15 +10,8 @@ body {
    white-space: nowrap;
    display: inline-block;
 }
-.inline-block-text {
-   overflow: hidden;
-}
 #p-one {
   float: left;
-}
-#p-two {
-  float: none;
-  text-align: center;
 }
 #p-three {
   float: right;
