@@ -10,9 +10,6 @@ body {
    white-space: nowrap;
    display: inline-block;
 }
-.container {
-   position: relative;
-}
 .bottomleft {
   position: absolute;
   bottom: 8px;
