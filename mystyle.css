@@ -11,7 +11,16 @@ body {
    display: inline-block;
 }
 .inline-block-text {
-   display: inline-block; 
+   overflow: hidden;
+}
+#p-one {
+  float: left;
+}
+#p-two {
+  float: center;
+}
+#p-three {
+  float: right;
 }
 img {
   width: 32%;
