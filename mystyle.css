@@ -15,16 +15,9 @@ img {
   border: 2px solid white;
 }
 .container {
-   padding: 10px 20px;
-   text-align: center;
-   background-color: white;
-   max-width 32%;
-}
-.subtitle {
-  text-align: left;
-  background-color: white;
-  padding: 2px;
-  max-width: 32%;
+   padding: 4px 8px;
+   text-align: left;
+   background-color: grey;
 }
 table, th, td {
   border: 1px solid black;
