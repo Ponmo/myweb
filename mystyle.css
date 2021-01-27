@@ -7,7 +7,7 @@ body {
   background-color: lightsteelblue;
 }
 p {
-  max-width: 32%; 
+  width: 32%; 
 }
 .inline-block {
    white-space: nowrap;
