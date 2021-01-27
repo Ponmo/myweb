@@ -11,7 +11,6 @@ body {
    display: inline-block;
 }
 img {
-  z-index: -1;
   width: 32%;
   border-radius: 20px;
   border: 2px solid white;
