@@ -9,15 +9,18 @@ body {
 .inline-block {
    display: inline-block;
 }
+.container {
+   position: relative;
+}
+.bottomleft {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
 img {
   width: 32%;
   border-radius: 20px;
   border: 2px solid white;
-}
-.container {
-   padding: 4px 8px;
-   text-align: left;
-   background-color: grey;
 }
 table, th, td {
   border: 1px solid black;
