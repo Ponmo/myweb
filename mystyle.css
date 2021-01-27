@@ -36,4 +36,5 @@ th, td {
 }
 .table {
   border: 0px; 
+  width: 100%;
 }
