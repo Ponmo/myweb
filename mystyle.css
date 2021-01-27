@@ -40,5 +40,5 @@ th, td {
 }
 .th {
   width: 33%;
-  border: none;
+  border: 0px;
 }
