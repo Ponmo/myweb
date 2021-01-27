@@ -10,15 +10,6 @@ body {
    white-space: nowrap;
    display: inline-block;
 }
-.inline-block-text{
-   overflow: hidden;
-}
-#p-one {
-  float: left;
-}
-#p-three {
-  float: right;
-}
 img {
   width: 33%;
   border-radius: 20px;
