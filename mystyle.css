@@ -6,6 +6,9 @@
 body {
   background-color: lightsteelblue;
 }
+p {
+  max-width: 32%; 
+}
 .inline-block {
    white-space: nowrap;
    display: inline-block;
