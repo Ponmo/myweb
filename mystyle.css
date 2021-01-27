@@ -10,6 +10,9 @@ body {
    white-space: nowrap;
    display: inline-block;
 }
+.inline-block-text {
+   display: inline-block; 
+}
 img {
   width: 32%;
   border-radius: 20px;
