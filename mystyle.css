@@ -17,7 +17,7 @@ body {
   float: left;
 }
 #p-two {
-  float: center;
+  float: none;
 }
 #p-three {
   float: right;
